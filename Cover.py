@@ -1,4 +1,3 @@
-#******************************CREATED BY ANTHONY DAVID MARANO******************************
 import arcpy
 
 
